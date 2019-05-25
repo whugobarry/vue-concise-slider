@@ -264,7 +264,7 @@ export default {
   z-index: 10;
 }
 .swiper-container-horizontal > .slider-pagination-bullets {
-  bottom: 10px;
+  bottom: 8px;
   left: 0;
   width: 100%;
 }
@@ -291,9 +291,9 @@ export default {
 .swiper-container-vertical > * > .slider-pagination-bullet {
   background: #000 none repeat scroll 0 0;
   border-radius: 100%;
-  height: 8px;
+  height: 4px;
   opacity: 0.2;
-  width: 8px;
+  width: 4px;
   cursor: pointer;
   display: block;
   margin: 0;
