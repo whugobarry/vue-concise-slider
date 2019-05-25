@@ -297,7 +297,7 @@ export default {
   opacity: 0.2;
   width: 8px;
   cursor: pointer;
-  margin: 0 5px;
+  margin: 0;
 }
 /*垂直*/
 .swiper-container-vertical > .slider-pagination-bullets {
@@ -317,7 +317,7 @@ export default {
   width: 8px;
   cursor: pointer;
   display: block;
-  margin: 5px 0;
+  margin: 0;
 }
 .swiper-container-vertical .slider-pagination-bullet-active ,.swiper-container-horizontal .slider-pagination-bullet-active{
   background: #fff none repeat scroll 0 0;
